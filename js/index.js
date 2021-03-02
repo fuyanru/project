@@ -6,5 +6,5 @@ $(function () {
 	$('#nav').children().click(function () {
 		$('.navbar-collapse').slideUp();
 	});
-	console.log('abc');
+	console.log('abcd');
 })
